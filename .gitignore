@@ -1,0 +1,34 @@
+# Build folders
+bin/
+obj/
+out/
+
+# Rider IDE files
+.idea/
+
+# Visual Studio files
+.vs/
+
+# Dependency Cache
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# User-Specific Files
+*.user
+*.suo
+
+# Environment Settings
+appsettings.Development.json
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# macOS Finder metadata
+.DS_Store
+
+# Windows Explorer thumbnails
+Thumbs.db
